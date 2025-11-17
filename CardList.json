@@ -54,7 +54,7 @@
         "type": "Battle",
         "cost": "2",
         "image": "https://rockymatthew4567.github.io/Proxy-the-Gathering/IMG/3_1_Invasion of New Capenna (Red Memory).png",
-        "isHorizontal": false
+        "isHorizontal": true
       },
       "back": {
         "name": "Holy Frazzle-Cannon (Everbloom)",
@@ -77,7 +77,7 @@
         "type": "Battle",
         "cost": "2",
         "image": "https://rockymatthew4567.github.io/Proxy-the-Gathering/IMG/4_1_Invasion of New Phyrexia (Fractured Seal of the Radiance).png",
-        "isHorizontal": false
+        "isHorizontal": true
       },
       "back": {
         "name": "Teferi Akosa of Zhalfir (Radiance)",
