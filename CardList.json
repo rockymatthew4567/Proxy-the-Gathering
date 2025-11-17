@@ -7,14 +7,14 @@
         "name": "Lost Lace",
         "type": "Creature",
         "cost": "1",
-        "image": "https://rockymatthew4567.github.io/Proxy-the-Gathering/Images/1_1_Cecil, Dark Knight (Lost Lace).png",
+        "image": "https://rockymatthew4567.github.io/Proxy-the-Gathering/IMG/1_1_Cecil, Dark Knight (Lost Lace).png",
         "isHorizontal": false
       },
       "back": {
         "name": "Lace",
         "type": "Creature",
         "cost": 0,
-        "image": "https://rockymatthew4567.github.io/Proxy-the-Gathering/Images/1_2_Cecil, Redeemed Paladin (Lace).png",
+        "image": "https://rockymatthew4567.github.io/Proxy-the-Gathering/IMG/1_2_Cecil, Redeemed Paladin (Lace).png",
         "isHorizontal": false
       }
     },
