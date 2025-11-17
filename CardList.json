@@ -4,22 +4,155 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Lost Lace",
+        "name": "Cecil, Dark Knight (Lost Lace)",
         "type": "Creature",
         "cost": "1",
         "image": "https://rockymatthew4567.github.io/Proxy-the-Gathering/IMG/1_1_Cecil, Dark Knight (Lost Lace).png",
         "isHorizontal": false
       },
       "back": {
-        "name": "Lace",
+        "name": "Cecil, Redeemed Paladin (Lace)",
         "type": "Creature",
         "cost": 0,
         "image": "https://rockymatthew4567.github.io/Proxy-the-Gathering/IMG/1_2_Cecil, Redeemed Paladin (Lace).png",
         "isHorizontal": false
       }
     },
-    "name": "Cecil, Dark Knight/Lost Lace",
+    "name": "Cecil, Dark Knight (Lost Lace)",
     "type": "Creature",
     "cost": "1"
+  },
+  "2": {
+    "id": "2",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dion, Bahamut_s Dominant (Trobbio)",
+        "type": "Creature",
+        "cost": "4",
+        "image": "https://rockymatthew4567.github.io/Proxy-the-Gathering/IMG/2_1_Dion, Bahamut_s Dominant (Trobbio).png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Bahamut, Warden of Light (Tormented Trobbio)",
+        "type": "Battle",
+        "cost": 0,
+        "image": "https://rockymatthew4567.github.io/Proxy-the-Gathering/IMG/2_2_Bahamut, Warden of Light (Tormented Trobbio).png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bahamut, Warden of Light (Tormented Trobbio)",
+    "type": "Creature",
+    "cost": "4"
+  },
+  "3": {
+    "id": "3",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Invasion of New Capenna (Red Memory)",
+        "type": "Battle",
+        "cost": "2",
+        "image": "https://rockymatthew4567.github.io/Proxy-the-Gathering/IMG/3_1_Invasion of New Capenna (Red Memory).png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Holy Frazzle-Cannon (Everbloom)",
+        "type": "Artifact",
+        "cost": 0,
+        "image": "https://rockymatthew4567.github.io/Proxy-the-Gathering/IMG/3_2_Holy Frazzle-Cannon (Everbloom).png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Invasion of New Capenna (Red Memory)",
+    "type": "Battle",
+    "cost": "2"
+  },
+  "4": {
+    "id": "4",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Invasion of New Phyrexia (Fractured Seal of the Radiance)",
+        "type": "Battle",
+        "cost": "2",
+        "image": "https://rockymatthew4567.github.io/Proxy-the-Gathering/IMG/4_1_Invasion of New Phyrexia (Fractured Seal of the Radiance).png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Teferi Akosa of Zhalfir (Radiance)",
+        "type": "Planeswalker",
+        "cost": 0,
+        "image": "https://rockymatthew4567.github.io/Proxy-the-Gathering/IMG/4_2_Teferi Akosa of Zhalfir (Radiance).png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Invasion of New Phyrexia/Fractured Seal of the Radiance",
+    "type": "Battle",
+    "cost": "2"
+  },
+  "5": {
+    "id": "5",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Akroma_s Will (Binding Power)",
+        "type": "Instant",
+        "cost": "4",
+        "image": "https://rockymatthew4567.github.io/Proxy-the-Gathering/IMG/Akroma_s Will (Binding Power).png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Akroma_s Will (Binding Power)",
+    "type": false,
+    "cost": 0
+  },
+  "6": {
+    "id": "6",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ancient Tomb (Kingdom_s Edge)",
+        "type": "Land",
+        "cost": 0,
+        "image": "https://rockymatthew4567.github.io/Proxy-the-Gathering/IMG/Ancient Tomb (Kingdom_s Edge).png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ancient Tomb (Kingdom_s Edge)",
+    "type": "Land",
+    "cost": 0
+  },
+  "7": {
+    "id": "7",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "And They Shall Know No Fear (Unite the Abyss)",
+        "type": "Instant",
+        "cost": "2",
+        "image": "https://rockymatthew4567.github.io/Proxy-the-Gathering/IMG/And They Shall Know No Fear (Unite the Abyss).png",
+        "isHorizontal": false
+      }
+    },
+    "name": "And They Shall Know No Fear (Unite the Abyss)",
+    "type": "Instant",
+    "cost": "2"
+  }
+  "8": {
+    "id": "8",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Anguished Unmaking (HK)",
+        "type": "Instant",
+        "cost": "3",
+        "image": "https://rockymatthew4567.github.io/Proxy-the-Gathering/IMG/Anguished Unmaking.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Anguished Unmaking (HK)",
+    "type": "Instant",
+    "cost": "3"
   }
 }
